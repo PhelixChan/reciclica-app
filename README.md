@@ -1,2 +1,2 @@
-# reclicica-app
+# reciclica-app
 Application for recycling
